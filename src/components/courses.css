@@ -1,0 +1,15 @@
+.card{
+    height: 370px;
+}
+#carouselExampleControls{
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.carousel-control-prev{
+    background-color: black !important;
+}
+.carousel-control-next{
+    background-color: black !important;
+}
